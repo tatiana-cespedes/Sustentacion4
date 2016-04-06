@@ -1,0 +1,52 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cespedes.tatiana.sustentacion4.Fra_Laura">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sitios"
+        style="@style/Titulos"
+
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="start">
+        <ImageView
+            android:src="@drawable/dabe9_"
+            android:layout_width="match_parent"
+            android:layout_height="233dp"
+            android:layout_weight="1"
+            android:layout_marginTop="55dp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/laura"
+                android:layout_weight="1"
+                style="@style/SubTitulos"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/dato1_laura"
+                android:layout_weight="1"
+                android:gravity="center"
+                />
+
+         </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Turismo Dabeiba</string>
+    <string name="dabeiba">Dabeiba</string>
+    <string name="lema">Dabeiba-Antioquia,\nCiudad remanso de paz y puertas de Urabá</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="dato1_granHotel">Gran Hotel</string>
+    <string name="dato2_granHotel">Dirección:          Cra 10 No. 8-66</string>
+    <string name="dato3_granHotel">Teléfono:           034-8590080</string>
+    <string name="dato1_green">Hotel Estelar Green</string>
+    <string name="dato2_green">Dirección:          Cra 10  No. 9-52</string>
+    <string name="dato3_green">Teléfono:           034-8590660</string>
+    <string name="dato1_porton">Hotel Portón de Urabá</string>
+    <string name="dato2_porton">Dirección:          Cra. 10 No. 9-49</string>
+    <string name="dato3_porton">Teléfono:           034-8590372</string>
+    <string name="sitios">Sitios Turísticos</string>
+    <string name="chibuga">Chibugá</string>
+    <string name="dato1_chibuga">Via Urabá</string>
+    <string name="tunel">Túnel de la Llorona</string>
+    <string name="laura">Santuario Santa Madre Laura Montoya</string>
+    <string name="dato1_laura">Dirección:          Cra 12  No. 7-12</string>
+    <string name="bares">Bares</string>
+    <string name="guachafita">La Guachafita</string>
+    <string name="dato1_guachafita">Dirección:          Cra 11  No. 7-24</string>
+    <string name="sagitario">Sagitario</string>
+    <string name="dato1_sagitario">Dirección:          Cra 10  No. 8-77</string>
+    <string name="gaucha">La Gaucha</string>
+    <string name="dato1_gaucha">Dirección:          Cra 10  No. 8-86</string>
+    <string name="informacion">Información Demográfica</string>
+    <string name="dato1_info">Dabeiba es un municipio de Colombia, localizado en la subregión occidente del departamento de Antioquia.  Su cabecera dista 183 kilómetros de la ciudad de Medellín, capital del departamento de Antioquia. El municipio posee una extensión de 1883 km².</string>
+    <string name="dato2_info">Demografía  (2015):          \n\t\t\tPoblación Total: 23 378 hab.\n\t\t\tPoblación Urbana: 8 921\n\t\t\tPoblación Rural: 14 457</string>
+    <string name="acercade">Acerca de</string>
+    <string name="acercade1">Creador: </string>
+    <string name="acercade2">\nTatiana Céspedes Torres  \nProgramación de dispositivos móviles \nUniversidad de Antioquia\n2016</string>
+</resources>
